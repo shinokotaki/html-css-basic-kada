@@ -19,6 +19,4 @@ h1 {
 .blue {
   color: skyblue;
 }
-#basic{ 
-  font-weight: bold;
-}
+#basic > p { font-weight: bold; }
